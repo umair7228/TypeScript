@@ -1,2 +1,2 @@
 # TypeScript
-TypeScript Work
+###This repo is all about TypeScript
